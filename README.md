@@ -9,7 +9,7 @@
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
 <p>
-  <b>Hello,I am a senior Full Stack engineer with over 7 years of experience specializing in Django and MERN stack applications.</b>
+  <b>Hello,</b> <br>I am a senior Full Stack engineer with over 7 years of experience specializing in Django and MERN stack applications.</br>
   I have worked on various projects, from small-scale applications to large-scale applications, which has given me valuable experience in project management, software architecture, and software development life cycle methodologies.
           </p>
           <p>
