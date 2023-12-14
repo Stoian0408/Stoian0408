@@ -9,7 +9,8 @@
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
 <p>
-              <b>Hello,</b> I am a senior Full Stack engineer with over 7 years of experience specializing in Django and MERN stack applications. I have worked on various projects, from small-scale applications to large-scale applications, which has given me valuable experience in project management, software architecture, and software development life cycle methodologies.
+  <b>Hello,I am a senior Full Stack engineer with over 7 years of experience specializing in Django and MERN stack applications.</b>
+  I have worked on various projects, from small-scale applications to large-scale applications, which has given me valuable experience in project management, software architecture, and software development life cycle methodologies.
           </p>
           <p>
               My goal is always to keep them satisfied and happy with the work I do. I am committed to using the latest best practices in web development to ensure that your website is easy to maintain, scale, and upgrade in the future.
