@@ -8,40 +8,43 @@
 
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
-<p>Hello, I am a senior Full Stack developer with over 7 years of experience specializing in Django and MERN stack applications. I have worked on various projects, from small-scale applications to large-scale applications, which has given me valuable experience in project management, software architecture, and software development life cycle methodologies.
-
-My goal is always to keep them satisfied and happy with the work I do. I am committed to using the latest best practices in web development to ensure that your website is easy to maintain, scale, and upgrade in the future.
-
-My technical skills:
-
-✪ Front End :
-TypeScript, JavaScript(ES5 and ES6)
-React, Next.js, Redux, Thunk, Saga, Hooks, React Native
-Vue.js, Nuxt.js, Vuex, Vuetify
-jQuery, Bootstrap, MUI, Ant Design
-CSS, SCSS, Tailwind CSS, Chakra UI
-Three.js
-
-✪Back End :
-Node.js and Express Framework
-Python, Django, Django REST framework, Flask
-Java, Spring
-GraphQL
-
-✪Database
-MongoDB, Mongoose, MySQL, PostgreSQL, SQLite
-
-✪DevOps
-Vercel
-AWS EC2, SES, or S3 services
-Nginx, Certbot, PM2
-Ubuntu servers
-Github
-Docker
-Kubernetes
-Skaffold
-
-Cheers and looking forward to hearing from you!!!</p>
+<p>
+              <b>Hello,</b> I am a senior Full Stack engineer with over 7 years of experience specializing in Django and MERN stack applications. I have worked on various projects, from small-scale applications to large-scale applications, which has given me valuable experience in project management, software architecture, and software development life cycle methodologies.
+          </p>
+          <p>
+              My goal is always to keep them satisfied and happy with the work I do. I am committed to using the latest best practices in web development to ensure that your website is easy to maintain, scale, and upgrade in the future.
+          </p>
+          <p>
+          <b>My technical skills:</b>
+          </p>
+          <ul>
+              <li><b>✪ Front End :</b><br>
+                  TypeScript, JavaScript(ES5 and ES6) <br>
+                  React, Next.js, Redux, Thunk, Saga, Hooks, React Native<br>
+                  Vue.js, Nuxt.js, Vuex, Vuetify<br>
+                  jQuery, Bootstrap, MUI, Ant Design<br>
+                  CSS, SCSS, Tailwind CSS, Chakra UI<br>
+                  Three.js</li><br>
+              <li><b>✪Back End :</b><br>
+                  Node.js and Express Framework<br>
+                  Python, Django, Django REST framework, Flask<br>
+                  Java, Spring<br>
+                  GraphQL</li><br>
+              <li><b>✪Database:</b><br>
+                  MongoDB, Mongoose, MySQL, PostgreSQL, SQLite</li><br>
+              <li><b>✪DevOps:</b><br>
+                  Vercel<br>
+                  AWS EC2, SES, or S3 services<br>
+                  Nginx, Certbot, PM2<br>
+                  Ubuntu servers<br>
+                  Github<br>
+                  Docker<br>
+                  Kubernetes<br>
+                  Skaffold</li><br>
+          </ul>
+          <p>
+          Cheers and looking forward to hearing from you!!!
+          </p>
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Electron-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/RUST-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Retool-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GCP-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/NLP-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/GraphQL-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/C#%-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 
